@@ -26,16 +26,6 @@ img {
   max-width: 50%;
 }
 
-.caption {
-  margin-top: 90px;
-  font-size: 30px;
-}
-
-.caption-s{
-  margin-top: 50px;
-  font-size: 30px;
-}
-
 button {
   position: absolute;
   top: 50%;
@@ -83,16 +73,6 @@ button {
 
     img {
       max-width: 100%;
-    }
-    
-    .caption {
-      margin-top: 10px;
-      font-size: 30px;
-    }
-  
-    .caption-s{
-      margin-top: -6px;
-      font-size: 30px;
     }
 
     .prev {
